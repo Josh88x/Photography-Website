@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Josh88x/Photography-Website.git/static/css/main.38e498fe.css",
+    "main.js": "/Josh88x/Photography-Website.git/static/js/main.27d5660a.js",
+    "index.html": "/Josh88x/Photography-Website.git/index.html",
+    "main.38e498fe.css.map": "/Josh88x/Photography-Website.git/static/css/main.38e498fe.css.map",
+    "main.27d5660a.js.map": "/Josh88x/Photography-Website.git/static/js/main.27d5660a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38e498fe.css",
+    "static/js/main.27d5660a.js"
+  ]
+}
